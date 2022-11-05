@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b4195b3d.css",
-    "main.js": "/static/js/main.bd41e6a0.js",
+    "main.js": "/static/js/main.bdfdcc0f.js",
     "static/js/787.128fc6e9.chunk.js": "/static/js/787.128fc6e9.chunk.js",
     "static/media/profile.png": "/static/media/profile.69b385e623a8cf93f264.png",
     "static/media/Avdhoot-Kurhe-Resume.pdf": "/static/media/Avdhoot-Kurhe-Resume.ab88e1ebd86095039922.pdf",
@@ -12,11 +12,11 @@
     "static/media/logo.jpg": "/static/media/logo.90b46da19e533a6a315f.jpg",
     "index.html": "/index.html",
     "main.b4195b3d.css.map": "/static/css/main.b4195b3d.css.map",
-    "main.bd41e6a0.js.map": "/static/js/main.bd41e6a0.js.map",
+    "main.bdfdcc0f.js.map": "/static/js/main.bdfdcc0f.js.map",
     "787.128fc6e9.chunk.js.map": "/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b4195b3d.css",
-    "static/js/main.bd41e6a0.js"
+    "static/js/main.bdfdcc0f.js"
   ]
 }
